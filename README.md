@@ -12,7 +12,7 @@ Requirements
 
 Installation
 ============
-If you have installed crossmon-collect globaly you can run:
+If you have installed crossmon-collect globally you can run:
 
     npm install crossmon-npmstat -g
 
