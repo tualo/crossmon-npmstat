@@ -1,0 +1,31 @@
+{
+	"name": "crossmon-npmstat",
+	"version": "0.0.1",
+	"author": {
+		"name": "Thomas Hoffmann",
+		"email": "thomas.hoffmann@tualo.de"
+	},
+	"description": "CPU NPM Stat for crossmon",
+	"main": "./lib/mon",
+	"engines": {
+		"node": ">=0.8.0"
+	},
+	"keywords": [
+		"crossmon",
+		"npmstat"
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "LICENSE"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/tualo/crossmon-npmstat.git"
+	},
+	"dependencies": {
+		"npm-stats": "*"
+	},
+	"readmeFilename": "README.md"
+}
