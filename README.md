@@ -22,12 +22,12 @@ If you have only a local installation of the gattering serivce run:
 
 After that you can configure the module by:
 
-    crossmon-collect -c enable crossmon-npmstat
-    crossmon-collect -c setup crossmon-npmstat add <your-package>
+    crossmon-collect enable crossmon-npmstat
+    crossmon-collect setup crossmon-npmstat
 
 If you have done so, let's check if it works:
 
-    crossmon-collect -t crossmon-npmstat
+    crossmon-collect test crossmon-npmstat
 
 If no error messages occur and you see an JSON-Array of Items like:
 
