@@ -5,7 +5,7 @@
 		"name": "Thomas Hoffmann",
 		"email": "thomas.hoffmann@tualo.de"
 	},
-	"description": "CPU NPM Stat for crossmon",
+	"description": "CPU NPM Stats for crossmon-collect",
 	"main": "./lib/mon",
 	"engines": {
 		"node": ">=0.8.0"
