@@ -1,11 +1,11 @@
 {
 	"name": "crossmon-npmstat",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": {
 		"name": "Thomas Hoffmann",
 		"email": "thomas.hoffmann@tualo.de"
 	},
-	"description": "CPU NPM Stats for crossmon-collect",
+	"description": "NPM Stats for crossmon-collect",
 	"main": "./lib/mon",
 	"engines": {
 		"node": ">=0.8.0"
