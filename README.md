@@ -1,14 +1,14 @@
 Description
 ===========
 
-Crossmon-npmstat is a statistic gattering module for crossmon-collect.
+Crossmon-npmstat is a statistic gattering module for [crossmon-collect](https://github.com/tualo/crossmon-collect).
 
 
 Requirements
 ============
 
 * [node.js](http://nodejs.org/) -- v0.8.0 or newer
-* crossmon-collect
+* [crossmon-collect](https://github.com/tualo/crossmon-collect)
 
 Installation
 ============
